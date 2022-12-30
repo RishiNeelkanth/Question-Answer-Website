@@ -41,16 +41,16 @@ function Login() {
       <div className="login__container">
         <div className="login__logo">
           <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quora_logo_2015.svg/250px-Quora_logo_2015.svg.png"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2E4m2TizJzApVI7q8-NWoFq-sB0M8dz_Ug&usqp=CAU"
             alt=""
           />
         </div>
         <div className="login__desc">
-          <p>A Place to Share knowledge and better understand the world</p>
-          <p style={{ color: "royalblue", fontSize: "25px" }}>
-            HandCrafted with ❤️ by{" "}
-          </p>
-          <h3>Code With Akky</h3>
+          <p>A Place To Share Knowledge And Find People Of Same Interest</p>
+          
+            
+          
+          
         </div>
         <div className="login__auth">
           <div className="login__authOptions">
@@ -76,7 +76,7 @@ function Login() {
                   Sign Up With Email
                 </span>
                 . By continuing you indicate that you have read and agree to
-                Quora's
+                Q/A's
                 <span style={{ color: "blue", cursor: "pointer" }}>
                   Terms of Service{" "}
                 </span>
@@ -129,7 +129,7 @@ function Login() {
           <p>Privacy</p>
           <p>Terms</p>
           <p>Contact</p>
-          <p>&copy; Quora Fake Inc. 2021</p>
+         
         </div>
       </div>
     </div>

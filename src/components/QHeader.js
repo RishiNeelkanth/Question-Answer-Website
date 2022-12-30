@@ -47,7 +47,7 @@ function QHeader() {
     <div className="qHeader">
       <div className="qHeader__logo">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quora_logo_2015.svg/250px-Quora_logo_2015.svg.png"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2E4m2TizJzApVI7q8-NWoFq-sB0M8dz_Ug&usqp=CAU"
           alt=""
         />
       </div>
